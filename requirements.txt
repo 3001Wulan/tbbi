@@ -6,3 +6,4 @@ numpy
 pillow
 setuptools
 sqlalchemy
+plotly
